@@ -1,2 +1,2 @@
-# codeacademy
-Projects completed in Code Academy
+# codeacademySQL
+Projects using SQL completed in Code Academy
